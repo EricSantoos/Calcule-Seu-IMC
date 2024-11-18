@@ -23,8 +23,8 @@ O usuario deve conseguir:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://github.com/EricSantoos/Calcule-Seu-IMC)
+- Live Site URL: [Add live site URL here](https://calculeseuimc.netlify.app)
 
 ## Author
 
